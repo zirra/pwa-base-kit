@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+This deployment includes configuration for VueX store, API utilities based on Axios and a localstorage utilities file.
+
 ## Build Setup
 
 ``` bash
